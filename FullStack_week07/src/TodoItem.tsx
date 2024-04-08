@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Todo, TodoStatus } from './todo-model';
 
 type TodoitemProps = {
@@ -20,4 +20,4 @@ const TodoItem = ({ todo }: TodoitemProps) => {
     )
 }
 
-export default TodoItem
+export default TodoItem;
